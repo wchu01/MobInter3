@@ -1,0 +1,14 @@
+/* My CSS*/
+@font-face{
+	font-family: myLEDFont;
+	src:url(modern_led_board-7.ttf);
+}
+#LED{
+	font-family: myLEDFont;
+	font-size: 150%;
+	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-color: yellow;
+	padding :  25px 5px;
+}
